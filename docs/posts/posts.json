@@ -17,5 +17,22 @@
     "preview": {},
     "last_modified": "2022-05-22T16:44:34-04:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/httpsrpubscomcrazylakotapony904294/",
+    "title": "Test Post",
+    "description": "This is my test post to Rpubs",
+    "author": [
+      {
+        "name": "Ruth Button",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-22",
+    "categories": [],
+    "contents": "\r\r\n\r\r\n\r\r\nlibrary(distill)\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n",
+    "preview": {},
+    "last_modified": "2022-05-22T16:51:26-04:00",
+    "input_file": {}
   }
 ]
