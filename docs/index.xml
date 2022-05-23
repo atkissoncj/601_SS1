@@ -12,7 +12,32 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Ruth HW1</title>
+      <dc:creator>Ruth Button</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomcrazylakotapony905685</link>
+      <description>This is my test post to Rpubs</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomcrazylakotapony905685</guid>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscomcrazylakotapony905685/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW 1</title>
+      <dc:creator>Ruining(Nancy) Yang</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomnancyuvv905835</link>
+      <description>This is the first homework.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomnancyuvv905835</guid>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Test Post</title>
+      <dc:creator>Ruth Button</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomcrazylakotapony904294</link>
+      <description>This is my test post to Rpubs</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomcrazylakotapony904294</guid>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Welcome to DACSS 601</title>
       <dc:creator>Curtis Atkisson</dc:creator>
@@ -21,14 +46,6 @@
 reading what we have to say!</description>
       <category>welcome</category>
       <guid>https://github.com/DACSS/dacss_course_website/posts/welcome</guid>
-      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Test Post</title>
-      <dc:creator>Ruth Button</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomcrazylakotapony904294</link>
-      <description>This is my test post to Rpubs</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomcrazylakotapony904294</guid>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>

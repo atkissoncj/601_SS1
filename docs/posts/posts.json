@@ -1,22 +1,39 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to DACSS 601",
-    "description": "Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/httprpubscomcrazylakotapony905685/",
+    "title": "Ruth HW1",
+    "description": "This is my test post to Rpubs",
     "author": [
       {
-        "name": "Curtis Atkisson",
-        "url": "http://umass.edu/sbs/dacss"
+        "name": "Ruth Button",
+        "url": {}
       }
     ],
-    "date": "2022-05-22",
-    "categories": [
-      "welcome"
+    "date": "2022-05-23",
+    "categories": [],
+    "contents": "\r\r\n\r\r\n\r\r\nlibrary(distill)\r\r\nlibrary(knitr)\r\r\nlibrary(tidyverse)\r\r\nlibrary(meta)\r\r\nlibrary(dplyr)\r\r\nlibrary(broom)\r\r\nlibrary(ggplot2)\r\r\nlibrary(rio)\r\r\n\r\r\nTherapy <- import(\"MSWdata.sav\")\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\nggplot(Therapy, aes(x=\"EMDR1\"))+\r\r\n  geom_histogram(stat=\"count\", binwidth = 1)\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n",
+    "preview": "posts/httprpubscomcrazylakotapony905685/distill-preview.png",
+    "last_modified": "2022-05-23T11:40:35-04:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/httprpubscomnancyuvv905835/",
+    "title": "HW 1",
+    "description": "This is the first homework.",
+    "author": [
+      {
+        "name": "Ruining(Nancy) Yang",
+        "url": {}
+      }
     ],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "date": "2022-05-23",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n2 + 5 == 3\r\n\r\n\r\n[1] FALSE\r\n\r\n\r\n\r\n16 / 3\r\n\r\n\r\n[1] 5.333333\r\n\r\n\r\n\r\n6 <= 9\r\n\r\n\r\n[1] TRUE\r\n\r\n\r\n\r\nFirtTerm_score <- c(83,55,90,99,46,66) \r\nFirtTerm_score/100\r\n\r\n\r\n[1] 0.83 0.55 0.90 0.99 0.46 0.66\r\n\r\nstudent_name <- c(\"Apple\",\"Susan\",\"Nancy\",\"Linda\",\"Sam\",\"Noah\")\r\n\r\n\r\n\r\n\r\n\r\nscore <- data.frame(student_name,FirtTerm_score)\r\nhead(score)\r\n\r\n\r\n  student_name FirtTerm_score\r\n1        Apple             83\r\n2        Susan             55\r\n3        Nancy             90\r\n4        Linda             99\r\n5          Sam             46\r\n6         Noah             66\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-05-22T16:44:34-04:00",
-    "input_file": "welcome.knit.md"
+    "last_modified": "2022-05-23T11:40:38-04:00",
+    "input_file": {}
   },
   {
     "path": "posts/httpsrpubscomcrazylakotapony904294/",
@@ -33,6 +50,25 @@
     "contents": "\r\r\n\r\r\n\r\r\nlibrary(distill)\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n",
     "preview": {},
     "last_modified": "2022-05-22T16:51:26-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to DACSS 601",
+    "description": "Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Curtis Atkisson",
+        "url": "http://umass.edu/sbs/dacss"
+      }
+    ],
+    "date": "2022-05-22",
+    "categories": [
+      "welcome"
+    ],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-05-22T16:44:35-04:00",
     "input_file": {}
   }
 ]
