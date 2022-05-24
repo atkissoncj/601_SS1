@@ -17,6 +17,25 @@
     "input_file": {}
   },
   {
+    "path": "posts/httpsrpubscomatkissoncjnaskocsubmit/",
+    "title": "HW1",
+    "description": "HW1 1 test",
+    "author": [
+      {
+        "name": "Nasko A",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-24",
+    "categories": [],
+    "contents": "\r\r\nR basics\r\r\n\r\r\n\r\r\nx <- seq(from=10, to=30, by=5)\r\r\n5*x\r\r\n\r\r\n\r\r\n[1]  50  75 100 125 150\r\r\n\r\r\ny <- c(12,543,2,\"my_test\")\r\r\npaste(y,\"abc\",sep=\"_\")\r\r\n\r\r\n\r\r\n[1] \"12_abc\"      \"543_abc\"     \"2_abc\"       \"my_test_abc\"\r\r\n\r\r\nz <- 12\r\r\nw <- 144\r\r\nw/z\r\r\n\r\r\n\r\r\n[1] 12\r\r\n\r\r\nData exploration\r\r\nmtcars\r\r\n\r\r\n\r\r\nlibrary(tidyverse)\r\r\nt <- head(select(mtcars, mpg, cyl))\r\r\ntable(t)\r\r\n\r\r\n\r\r\n      cyl\r\r\nmpg    4 6 8\r\r\n  18.1 0 1 0\r\r\n  18.7 0 0 1\r\r\n  21   0 2 0\r\r\n  21.4 0 1 0\r\r\n  22.8 1 0 0\r\r\n\r\r\nOrange\r\r\n\r\r\n\r\r\ndim(Orange)\r\r\n\r\r\n\r\r\n[1] 35  3\r\r\n\r\r\ncolnames(Orange)\r\r\n\r\r\n\r\r\n[1] \"Tree\"          \"age\"           \"circumference\"\r\r\n\r\r\nsummary(Orange)\r\r\n\r\r\n\r\r\n Tree       age         circumference  \r\r\n 3:7   Min.   : 118.0   Min.   : 30.0  \r\r\n 1:7   1st Qu.: 484.0   1st Qu.: 65.5  \r\r\n 5:7   Median :1004.0   Median :115.0  \r\r\n 2:7   Mean   : 922.1   Mean   :115.9  \r\r\n 4:7   3rd Qu.:1372.0   3rd Qu.:161.5  \r\r\n       Max.   :1582.0   Max.   :214.0  \r\r\n\r\r\nPlotting\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n",
+    "preview": "posts/httpsrpubscomatkissoncjnaskocsubmit/distill-preview.png",
+    "last_modified": "2022-05-24T17:03:29-04:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/httprpubscomcrazylakotapony905685/",
     "title": "Ruth HW1",
     "description": "This is my test post to Rpubs",
