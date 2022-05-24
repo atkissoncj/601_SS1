@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/httpsrpubscomstevie906063/",
+    "title": "Steph Roberts HW1",
+    "description": "Using R to help determine how much food to make",
+    "author": [
+      {
+        "name": "Steph",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-24",
+    "categories": [],
+    "contents": "\r\r\nPotluck brainstorming\r\r\nThe office is having a potluck. There are 40 people in the office. One box of cupcakes makes 24 servings. How many boxes of cake mix are needed?\r\r\n\r\r\n\r\r\n40/24\r\r\n\r\r\n\r\r\n[1] 1.666667\r\r\n\r\r\nIt looks like we will need more than 1.6 boxes. To ensure eveyone gets a cupcake, 2 full cake mixes are needed.\r\r\n\r\r\n\r\r\n24*2\r\r\n\r\r\n\r\r\n[1] 48\r\r\n\r\r\nTwo cake mixes will make 48 cupcakes. That means we will have extra for people to have seconds if they like.\r\r\n\r\r\n\r\r\n48-40\r\r\n\r\r\n\r\r\n[1] 8\r\r\n\r\r\nThere will be 8 extra cupcakes.\r\r\nTwo cakes mixes will be perfect!\r\r\n\r\r\n\r\r\n\r\r\n",
+    "preview": {},
+    "last_modified": "2022-05-24T15:57:38-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/httprpubscomcrazylakotapony905685/",
     "title": "Ruth HW1",
     "description": "This is my test post to Rpubs",
@@ -68,7 +85,7 @@
     ],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-05-22T16:44:35-04:00",
-    "input_file": {}
+    "last_modified": "2022-05-23T11:55:37-04:00",
+    "input_file": "welcome.knit.md"
   }
 ]
